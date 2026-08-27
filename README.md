@@ -1,4 +1,4 @@
-<img width="600" height="829" alt="image" src="https://github.com/user-attachments/assets/6d5a608c-fdf9-4550-9426-33202a512125" /># 🐾 The Woof Road
+# 🐾 The Woof Road
 
 ## About The Project
 "The Woof Road" is an interactive 2D game developed in Python to demonstrate advanced programming concepts. 
