@@ -18,6 +18,9 @@ This project was developed as a final showcase to implement a robust game loop, 
 
 ## 🖼️ Screenshots & Visuals
 
-<img width="600" height="829" alt="image" src="https://github.com/user-attachments/assets/08350e60-8aed-4a47-9db7-0a12584c3a2c" />
-<img width="601" height="830" alt="image" src="https://github.com/user-attachments/assets/9efdacc6-a81f-4ec8-9dc6-885e178c77e9" />
-<img width="604" height="832" alt="image" src="https://github.com/user-attachments/assets/c5dc20c8-6026-47ff-b8e7-6e5afecd9469" />
+<img width="596" height="800" alt="image" src="https://github.com/user-attachments/assets/576ab848-29d1-49ac-aa00-ba7c42437475" />
+<img width="597" height="796" alt="image" src="https://github.com/user-attachments/assets/d292724f-624a-41fa-be44-407d6925ce5d" />
+<img width="601" height="797" alt="image" src="https://github.com/user-attachments/assets/cde27ba2-7519-4c2e-977c-512556954aa3" />
+
+
+
